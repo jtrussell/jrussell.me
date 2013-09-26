@@ -1,8 +1,10 @@
 # jrussell.me
 
-Source code for the personal website of yours truly.
+Source files for the personal website of Justin Russell.
 
-## Build Instructions (requires Node.js):
+## Build Instructions
+
+Requires Node.js and npm. Clone this repo and run:
 
 ```
 npm install -g grunt-cli
@@ -14,4 +16,4 @@ grunt
 
 ## Other Tasks
 
-* `grunt server`: Live reloady goodness... for quick development feedback.
+- `grunt server`: Live reloady goodness.
