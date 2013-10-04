@@ -7,7 +7,7 @@ time for [iVantage Health Analtics][ivantage]. We specialize in data driven,
 rich internet applications.
 
 If I'm not at the keyboard chances are good you'll find me playing
-[squash][squash-profile] or frisbee.me/a/coasters/).
+[squash][squash-profile] or frisbee.
 
 [ivantage]: <http://www.ivantagehealth.com/> "iVantage Health Analytics"
 [squash-profile]: <http://www.ussquash.com/serve/?program=player&id=69323> "Squash Profile"
